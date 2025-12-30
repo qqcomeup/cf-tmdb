@@ -2,7 +2,7 @@
 
 MP交流群：https://t.me/moviepilot_official （我是 咚咚咚）
 
-部署好绑定自己域名后
+部署好绑定自己域名后 必须绑定自己域名 必须绑定自己域名 必须绑定自己域名 CF给的预览域名自带墙！
 记得在路径 MOVIEPILOT v2 设定-系统-高级设置-添加上去 xx.org  与网络-安全域名里面 也需要添加上去保存-保存-重启MP应用
 
 <img width="1403" height="972" alt="image" src="https://github.com/user-attachments/assets/bd89a46f-806d-4626-980a-08b8ff38467c" />
